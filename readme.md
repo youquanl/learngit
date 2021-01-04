@@ -5,7 +5,7 @@ git is free
 #### Git version control
 + Local repository
 + Remote repository
-
++ Branch management
 > How to insert code
 >
 
